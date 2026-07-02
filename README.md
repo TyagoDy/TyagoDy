@@ -2,7 +2,7 @@
 
 **Web & Backend Developer | Python & FastAPI**
 
-Backend developer engineering stable, modular web applications. Proven capacity for rapid technical adaptation, document-driven learning, and clear cross-functional communication. Currently diving deep into software architecture to ensure system logic and data integrity across deployments.
+I am a web developer focused on building stable backend systems. My core stack is Python and FastAPI, but my biggest asset is rapid adaptability—I proactively study technical documentation to master and implement new tools quickly. I value clear communication, team collaboration, and continuously sharpening my engineering fundamentals through technical literature.
 
 ---
 
