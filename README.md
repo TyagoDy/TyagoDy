@@ -1,27 +1,27 @@
-# Hi, I'm Tiago (Tyago_Dy) 😁
+# Hi, I'm Tiago (Tyago_Dy) 😉
 
-**Web & Backend Developer | API Architecture & Integration**
+**Web & Backend Developer | Python & FastAPI**
 
-I build functional, effective applications with a strong focus on clean logic and backend stability. My current technical stack revolves around Python and FastAPI. My primary engineering asset is high-velocity learning: if a project requires a tool I don't know, I am proactive about studying the documentation and adapting quickly to deliver solutions. 
-
-I’m always happy to chat, collaborate on tough problems, and share ideas. Right now, I'm also spending my spare time reading technical books to sharpen my software engineering and architecture fundamentals so I can write even cleaner code.
+Backend developer engineering stable, modular web applications. Proven capacity for rapid technical adaptation, document-driven learning, and clear cross-functional communication. Currently diving deep into software architecture to ensure system logic and data integrity across deployments.
 
 ---
 
-### Technical Stack & Tools
+### 💻 Tech Stack & Tools
 
-*   **Languages:** Python, JavaScript, Java (Foundations)
-*   **Frameworks:** FastAPI
-*   **Infrastructure & Workflow:** Git, GitHub, Docker (Foundations)
-*   **Core Strengths:** Fast technical adaptation, proactive communication, clean documentation
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,js,java,html,css,svg,git,github,docker,vscode" />
+  </a>
+</p>
 
-### Current Focus
-*    Building scalable APIs and automated backend workflows with FastAPI.
-*    Deepening architecture principles through software engineering books.
-*    Advancing academic foundations through a B.S. in System Analysis and Development (ADS) at UNA.
+---
 
-### Connect with Me
-*   **LinkedIn:** [https://www.linkedin.com/in/tyago-dy/](https://www.linkedin.com/in/tyago-dy/)
-*   **Portfolio:** [https://tyagody-portfolio.surge.sh/](https://tyagody-portfolio.surge.sh/)
+### 📓 Education & Focus
+* 🎓 **Degree:** B.S. in System Analysis and Development (ADS) at UNA
+* 📖 **Learning:** Deepening software engineering and architecture principles through technical literature
+
+### 📧 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/tyago-dy](https://www.linkedin.com/in/tyago-dy/)
+* 🌐 **Portfolio:** [tyagody-portfolio.surge.sh](https://tyagody-portfolio.surge.sh/)
 
 ---
