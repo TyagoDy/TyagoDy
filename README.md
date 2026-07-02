@@ -10,7 +10,7 @@ I am a web developer focused on building stable backend systems. My core stack i
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,js,java,html,css,svg,git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,js,java,postgres,obsidian,html,css,git,github,docker,vscode,windows" />
   </a>
 </p>
 
