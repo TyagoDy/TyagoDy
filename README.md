@@ -2,7 +2,7 @@
 
 **Web & Backend Developer | Python & FastAPI**
 
-I am a web developer focused on building stable backend systems. My core stack is Python and FastAPI, but my biggest asset is rapid adaptability—I proactively study technical documentation to master and implement new tools quickly. I value clear communication, team collaboration, and continuously sharpening my engineering fundamentals through technical literature.
+I am a web developer focused on building stable backend systems. My core stack is Python and FastAPI, but my biggest asset is rapid adaptability I proactively study technical documentation to master and implement new tools quickly. I value clear communication, team collaboration, and continuously sharpening my engineering fundamentals through technical literature.
 
 ---
 
